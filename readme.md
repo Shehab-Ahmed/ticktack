@@ -32,35 +32,43 @@ This project demonstrates advanced skills in building scalable web applications,
 ```bash
 git clone https://github.com/Shehab-Ahmed/ticktack.git
 cd ticktack/backend
-
-Install dependencies:
+```
+2. Install dependencies:
 composer install
 
 
-Configure environment variables:
-cp .env.example .env
+3. Configure environment variables:
+```bash cp .env.example .env
 php artisan key:generate
+```
 
-
-Run database migrations:
+4. Run database migrations:
+```bash
 php artisan migrate
+```
 
-
-Start the server:
+5. Start the server:
+```bash
 php artisan serve
+```
 
-
-Frontend
+### Frontend
 Navigate to the frontend folder:
+```bash
 cd ../frontend
+```
 
-Install dependencies:
+1. Install dependencies:
+```bash
 npm install
+```
 
-Start the development server:
+2. Start the development server:
+```bash
 npm run dev
+```
 
-Project Structure
+### Project Structure
 /backend  - Laravel API
 /frontend - Vue 3 SPA
 
