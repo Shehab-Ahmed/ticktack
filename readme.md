@@ -34,10 +34,11 @@ git clone https://github.com/Shehab-Ahmed/ticktack.git
 cd ticktack/backend
 ```
 2. Install dependencies:
+```bash
 composer install
+```
 
-
-3. Configure environment variables:
+4. Configure environment variables:
 ```bash cp .env.example .env
 php artisan key:generate
 ```
