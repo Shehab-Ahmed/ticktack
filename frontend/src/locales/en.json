@@ -1,0 +1,61 @@
+{
+  "main": {
+    "name": "Ticktack",
+    "lang": "Language"
+  },
+  "navbar": {
+    "welcome": "Welcome",
+    "add": "Add",
+    "delete": "Delete",
+    "Tasks": "Tasks",
+    "Summary": "Summary",
+    "Login": "Login",
+    "Register": "Register",
+    "Logout": "Logout"
+  },
+  "homePage": {
+    "HeaderTitle": "Organize your tasks and boost your daily productivity with Ticktack",
+    "HeaderDesc": "Stay focused on your goals and track your tasks efficiently and clearly.",
+    "SignUp": "Get Started",
+    "SignIn": "Sign In",
+    "About": "Take control of your daily schedule effectively, prioritize your tasks, and monitor your progress. Whatever the nature of your work, you will find all your tasks organized in a way that provides clarity and greater focus.",
+    "titleFeat": "Features",
+    "feat1": "Efficient Task Management: Add, edit, or delete tasks easily.",
+    "feat2": "Precise Reminders: Never miss an important appointment or task.",
+    "feat3": "Priority Sorting: Identify the most important tasks and focus on them first.",
+    "feat4": "Smooth and Professional Interface: A comfortable design that makes tracking details easy.",
+    "feat5": "Compatible with All Devices: Whether on desktop or mobile.",
+    "titleHowtoBegin": "How to Get Started",
+    "step1": "Create your account.",
+    "step2": "Add your daily or weekly tasks.",
+    "step3": "Prioritize and track your progress.",
+    "step4": "Complete your tasks efficiently and achieve your goals easily.",
+    "secEnd": "Achievement starts with a single step, and every completed task brings you closer to your goal.",
+    "cta": "Get Started"
+  },
+  "login": {
+    "titlePage": "Please sign in",
+    "email": "Email",
+    "password": "Password",
+    "signin": "Sign in"
+  },
+  "register": {
+    "titlePage": "Please sign up",
+    "name": "Name",
+    "placName": "Your name",
+    "email": "Email",
+    "password": "Password",
+    "passConf": "Password Confirmation",
+    "signup": "Sign up"
+  },
+  "tasks": {
+    "titlePage": "Manage Tasks",
+    "showCom": "Show completed",
+    "hideCom": "Hide completed",
+    "AddNewTask": "+ Add new task. Press enter to save.",
+    "dbClick": "Double click the text to edit or remove"
+  },
+  "summary": {
+    "titlePage": "Summary"
+  }
+}

@@ -1,0 +1,17 @@
+body {
+    text-align: right;
+    font-family: 'Droid Arabic Kufi', serif;
+}
+.form-floating>label {
+    position: absolute;
+    top: 0;
+    left: auto;
+    right: 0;
+    height: 100%;
+}
+.task-actions {
+    position: absolute;
+    top: 50%;
+    right: auto;
+    left: 30px
+}
